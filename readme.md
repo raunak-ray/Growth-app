@@ -46,7 +46,7 @@ growth-app/
 │   └── favicon.ico
 └── README.md
 
----
+```
 
 
 ## 🌐 Live Demo
