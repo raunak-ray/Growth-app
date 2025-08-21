@@ -44,8 +44,10 @@ growth-app/
 │   ├── logo-white.png
 │   ├── video-preview.png
 │   └── favicon.ico
-└── README.md
+└── README.md ```
+
+---
 🌐 Live Demo
 
 👉 Netlify Link: https://growth-app-demo.netlify.app/
-```
+---
