@@ -32,15 +32,15 @@ This project demonstrates front-end design skills, animations, and responsive UI
 
 ## 📂 Project Structure
 
-growth-app/
-├── index.html
-├── css/
-│ └── style.css
-├── js/
-│ └── main.js
-├── images/
-│ ├── logo.png
-│ ├── logo-white.png
-│ ├── video-preview.png
-│ └── favicon.ico
-└── README.md
+- growth-app/
+- ├── index.html
+- ├── css/
+- │ └── style.css
+- ├── js/
+- │ └── main.js
+- ├── images/
+- │ ├── logo.png
+- │ ├── logo-white.png
+- │ ├── video-preview.png
+- │ └── favicon.ico
+- └── README.md
