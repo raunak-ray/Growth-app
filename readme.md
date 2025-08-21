@@ -44,8 +44,7 @@ growth-app/
 │   ├── logo-white.png
 │   ├── video-preview.png
 │   └── favicon.ico
-└── README.md ```
-
+└── README.md
 ---
 🌐 Live Demo
 
